@@ -27,6 +27,7 @@ This report was completed as part of **CO1101 Computing Fundamentals** at the **
 ## Files
 
 - `CW3Final.pdf` - final submitted report
+- `CW3-CO1101.pdf` - coursework brief
 
 ## Notes
 
